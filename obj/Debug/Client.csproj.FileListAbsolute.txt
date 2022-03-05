@@ -1,0 +1,11 @@
+C:\Users\Phant\source\repos\Assignment 2\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Phant\source\repos\Assignment 2\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phant\source\repos\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\Phant\source\repos\Assignment 2\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Phant\source\repos\Assignment 2\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Phant\source\repos\Assignment 2\obj\Debug\Assignment_2.ChatClient.resources
+C:\Users\Phant\source\repos\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Phant\source\repos\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Phant\source\repos\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\Phant\source\repos\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Phant\source\repos\Assignment 2\obj\Debug\Assignment 2.pdb
